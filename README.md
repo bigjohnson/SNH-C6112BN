@@ -9,7 +9,7 @@
  I used Windows 10 with internet explorer.  
  ![](smartcam1.png)  
  6. Insert the default Private Key **smartcam**  
- 7. When apper a dialog box say that you must change the default Private Key repond yes.  
+ 7. When apper a dialog box say that you must change the default Private Key respond yes.  
  8. Insert the new Private Key two times:  
  ![](smartcam3.png)  
  **Write down the new Private Key because if you lose it you cannot connect to the camera. I try reset the camera with the reset pin hole but the Private Key remain my new one and don't return to smartcam!**  
