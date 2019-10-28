@@ -1,9 +1,9 @@
 # SNH-C6112BN
  Samsung / Hanwha SNH-C6112BN camera setup instructions
 
- 1. Power on the camera.
- 2. Press the rear wifi button.
- 3. Connect to the DIRECT-CAM-xxxx network, where xxxx are the last 4 digit of the cam serial number.
+ 1. Power on the camera and wait until the led is blue or solid red.
+ 2. Press the rear wifi button until the led is green.
+ 3. Connect to the DIRECT-CAM-xxxx network, where xxxx are the last 4 digit of the cam serial number on the rear label.
 
  4. enter the wifi password that is **smartcam**
  5. Open a internet browser an insert the address http://192.168.123.1/ that is the wifi network default gateway.
@@ -24,7 +24,7 @@
  ![](smartcam7.png)
  13. Insert the network password:
  ![](smartcam8.png)
- 14. Apply it and then restart the camera.
+ 14. Apply it and then restart the camera removing the power supply.
  15. Wait the camera connect to your wifi network, when the light in then camera is solid blue open AngryIp Scanner or another ip scanner in a device conncted to your wifi network and start a search:
  ![](smartcam9.png)
  16. Search for a Samsung deviche that has the MAC address of your camera, the MAC address is write on a label behind the camera.
