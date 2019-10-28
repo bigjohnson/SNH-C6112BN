@@ -1,5 +1,6 @@
 # SNH-C6112BN
- Samsung / Hanwha SNH-C6112BN camera setup instructions
+ Samsung / Hanwha SNH-C6112BN camera setup instructions  
+ ![](SNH-C6112BN.jpg)
 
  1. Power on the camera and wait until the led is blue or solid red.  
  2. Press the rear wifi button until the led is green.  
