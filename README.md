@@ -10,6 +10,7 @@
 
  I used Windows 10 with internet explorer.
  ![](smartcam1.png)
+
  7. Insert the default Private Key **smartcam**
 
  8. When apper a dialog box say that you must change the default Private Key repond yes.
@@ -18,6 +19,7 @@
  ![](smartcam3.png)
 
  **Write down the new Private Key because if you lose it you cannot connect to the camera. I try reset the camera with the reset pin hole but the Private Key remain my new one and don't return to smartcam!**
+ 
  10. Re login to the camera with the new Private Key and go to Network Setting / Wireless network:
  ![](smartcam5.png)
  11. Power on the wirelsee network and waith serching:
@@ -27,7 +29,7 @@
  13. Insert the network password:
  ![](smartcam8.png)
  14. Apply it and then restart the camera removing the power supply.
- 
+
  15. Wait the camera connect to your wifi network, when the light in then camera is solid blue open AngryIp Scanner or another ip scanner in a device conncted to your wifi network and start a search:
  ![](smartcam9.png)
  16. Search for a Samsung deviche that has the MAC address of your camera, the MAC address is write on a label behind the camera.
