@@ -24,7 +24,7 @@
  13. Apply it and then restart the camera removing the power supply.  
  14. Wait the camera connect to your wifi network, when the light in then camera is solid blue open AngryIp Scanner or another ip scanner in a device conncted to your wifi network and start a search:  
  ![](smartcam9.png)  
- 15. Search for a Samsung deviche that has the MAC address of your camera, the MAC address is write on a label behind the camera.  
+ 15. Search for a Samsung device that has the MAC address of your camera, the MAC address is write on a label behind the camera.  
  16. You could re login to your camera with the ip that you find on scanner.  
  17. If you use Internet Explorer you can install a plugin for view the images, or use the rtsp address  
  rtsp://admin:**yournewprivatekey**@**yourcameraaddress**/profile1/media.smp  
