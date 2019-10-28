@@ -5,7 +5,7 @@
  1. Power on the camera and wait until the led is blue or solid red.  
  2. Press the rear wifi button until the led is green.  
  3. Connect to the DIRECT-CAM-xxxx network, where xxxx are the last 4 digit of the cam serial number on the rear label.  
- 4. enter the wifi password that is **smartcam**  
+ 4. Enter the wifi password that is **smartcam**  
  5. Open a internet browser an insert the address http://192.168.123.1/ that is the wifi network default gateway.  
  I used Windows 10 with internet explorer.  
  ![](smartcam1.png)  
@@ -26,7 +26,7 @@
  14. Wait the camera connect to your wifi network, when the light in then camera is solid blue open AngryIp Scanner or another ip scanner in a device conncted to your wifi network and start a search:  
  ![](smartcam9.png)  
  15. Search for a Samsung device that has the MAC address of your camera, the MAC address is write on a label behind the camera.  
- 16. You could re login to your camera with the ip that you find on scanner.  
+ 16. Re login to your camera with the ip that you find on scanner.  
  17. If you use Internet Explorer you can install a plugin for view the images, or use the rtsp address  
  rtsp://admin:**yournewprivatekey**@**yourcameraaddress**/profile1/media.smp  
  with your favourite program like VLC or Obs.
