@@ -2,7 +2,7 @@
  Samsung / Hanwha SNH-C6112BN   
  ![Samsung / Hanwha SNH-C6112BN](SNH-C6112BN.jpg)
  
- Samsung / Hanwha SNH-C6410BN
+ Samsung / Hanwha SNH-C6410BN   
  ![Samsung / Hanwha SNH-C6410BN](snh-c6410bn.png)
 
  1. Power on the camera and wait until the led is blue or solid red.  
