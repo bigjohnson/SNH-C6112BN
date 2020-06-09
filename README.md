@@ -6,7 +6,7 @@
  ![Samsung / Hanwha SNH-C6410BN](snh-c6410bn.png)
 
  1. Power on the camera and wait until the led is blue or solid red.  
- 2. If you have an SNH-C6410BN you could use ethernet directly and go to number 14, and use ethernet directly, or press the rear wifi button until the led is green.  
+ 2. If you have an SNH-C6410BN you could use ethernet directly and go to number 14, or press the rear wifi button until the led is green.  
  3. Connect to the DIRECT-CAM-xxxx network, where xxxx are the last 4 digit of the cam serial number on the rear label.  
  4. Enter the wifi password that is **smartcam**  
  5. Open a internet browser an insert the address http://192.168.123.1/ that is the wifi network default gateway.  
